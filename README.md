@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ErtnTech software development service<br>🌱 I’m currently learning JavaScript Frameworks<br>📫 You can reach me at info@muratertunc.com.tr
+🌱 I’m currently learning JavaScript Frameworks<br>📫 You can reach me at info@muratertunc.com.tr
 
 
 ## 🌐 Socials:
